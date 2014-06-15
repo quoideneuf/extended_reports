@@ -1,4 +1,4 @@
-class ExtendAccessionedReport < AbstractReport
+class ExtentAccessionedReport < AbstractReport
 
   def self.report_opts
     @opts ||= {
